@@ -1,13 +1,13 @@
 # sudoku
 Sudoku solver from text.
 
-### Algolism
+## Algolism
 Standard Sudoku logic and Reductio method.
 
-### Prepare
+## Prepare
 chmod 755 sudoku.rb
 
-### Data File
+## Data File
 9 chars x 9 lines
 ------------
 \*16\*8\*\*\*\*  
@@ -22,7 +22,7 @@ chmod 755 sudoku.rb
 ------------
 
 
-### Usage
+## Usage
 ./sudoku.rb dat/test2.dat
 
 ## Result
@@ -37,5 +37,5 @@ Goal
 385624719  
 127953684  
 
-### Implemented simulator
+## Implemented simulator
 https://www.sentohsharyoga.com/puzzle/sudoku/text/size3x3
